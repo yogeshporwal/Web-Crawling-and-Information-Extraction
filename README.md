@@ -9,7 +9,7 @@ Our task is following:
 * Reads each of the URLs, saves the pages in HTML format.
 * Given a user input of any of the ten genres, it should list all the movies in that genre and wait for user input of a particular movie name from the list.
 * Given a movie name as the input, it should download and save the corresponding movie page’s HTML file.
-* After saving movie pages in HTML format, create grammar using the syntax of the HTLML file to extract following fields:
+* After saving movie pages in HTML format, create grammar using the syntax of the HTML file to extract following fields:
 
   * **Movie Name**
   * **Director**
