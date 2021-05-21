@@ -1,5 +1,8 @@
 # Web-Crawling-and-Information-Extraction
 
+
+## Project Description
+
 RottenTomatoes is an IMDb like website, where we can find an online database of information related to films, television programs, including cast, production crew,
 personal biographies, plot summaries, trivia, ratings, critic and fan reviews.
 
@@ -36,3 +39,9 @@ After completion of above task we need to do two more extra tasks to add some sp
  - **His/Her other movies**
 
 Then wait for the user to select from any of the above options and show the result as per selection and for the ‘His/Her other movies’ further ask for a year and use it as a filter to show all the movies on or after that year.
+
+## Instructions to run the code
+
+* Keep task1.py and task2.py files in the same folder and also keep "rottentomatoes movie genre link.txt" with them.
+* Open terminal in same folder and run command: $ make
+* To clean the ouput files run the command: $ make clean
