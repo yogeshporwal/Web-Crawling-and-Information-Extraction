@@ -43,5 +43,5 @@ Then wait for the user to select from any of the above options and show the resu
 ## Instructions to run the code
 
 * Keep task1.py and task2.py files in the same folder and also keep "rottentomatoes movie genre link.txt" with them.
-* Open terminal in same folder and run command: $ make
-* To clean the ouput files run the command: $ make clean
+* Open terminal in same folder and run this command :point_right: $ make
+* To clean the ouput files run this command :point_right: $ make clean
